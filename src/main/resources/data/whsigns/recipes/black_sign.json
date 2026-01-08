@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RWR",
+    "PWP",
+    " S "
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:black_dye"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "P": {
+      "item": "minecraft:oak_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "whsigns:black_sign",
+    "count": 1
+  }
+}

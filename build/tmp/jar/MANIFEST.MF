@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: "whsigns"
+Specification-Vendor: Brady
+Specification-Version: 1
+Implementation-Title: WanderingHollowsSignMod
+Implementation-Version: 1.0
+Implementation-Vendor: Brady
+Implementation-Timestamp: 2025-04-09T21:05:40-0400
+

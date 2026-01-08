@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RWB",
+    "PWP",
+    " S "
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:light_gray_dye"
+    },
+    "B": {
+      "item": "minecraft:gray_dye"
+    },
+    "W": {
+      "item": "minecraft:white_wool"
+    },
+    "P": {
+      "item": "minecraft:oak_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "whsigns:darkgrey_sign",
+    "count": 1
+  }
+}

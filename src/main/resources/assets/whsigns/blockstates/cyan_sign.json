@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/thin_block",
+  "textures": {
+    "texture": "whsigns:block/cyan_sign",
+    "particle": "whsigns:block/cyan_sign"
+  }
+}

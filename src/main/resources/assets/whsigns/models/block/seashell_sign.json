@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/sign",
+  "textures": {
+    "texture": "whsigns:block/seashell_sign",
+    "particle": "whsigns:block/seashell_sign"
+  }
+}

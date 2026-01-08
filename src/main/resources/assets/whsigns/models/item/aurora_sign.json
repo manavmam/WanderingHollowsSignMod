@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "whsigns:item/aurora_sign",
+    "particle": "whsigns:block/aurora_sign"
+  }
+}

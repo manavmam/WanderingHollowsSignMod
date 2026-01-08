@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "whsigns:block/dice_1",
+    "down": "whsigns:block/dice_6",
+    "north": "whsigns:block/dice_2",
+    "east": "whsigns:block/dice_3",
+    "south": "whsigns:block/dice_5",
+    "west": "whsigns:block/dice_4",
+    "particle": "whsigns:block/dice_1"
+  }
+}

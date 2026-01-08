@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "whsigns:item/pastelpurple_sign"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/sign",
+  "textures": {
+    "texture": "whsigns:block/yellow_sign",
+    "particle": "whsigns:block/yellow_sign"
+  }
+}

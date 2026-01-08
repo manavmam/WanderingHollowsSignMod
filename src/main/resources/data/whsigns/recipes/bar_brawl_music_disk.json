@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCB",
+    "CSB",
+    "CBB"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:music_disc_cat"
+    },
+    "B": {
+      "item": "minecraft:music_disc_blocks"
+    },
+    "S": {
+      "item": "minecraft:music_disc_stal"
+    }
+  },
+  "result": {
+    "item": "whsigns:bar_brawl_music_disc",
+    "count": 1
+  }
+}

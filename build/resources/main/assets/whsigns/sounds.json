@@ -1,0 +1,40 @@
+{
+  "sound_block_break": {
+    "subtitle": "sounds.whsigns.sound_block_break",
+    "sounds": [
+      "whsigns:sound_block_break"
+    ]
+  },
+  "sound_block_step": {
+    "subtitle": "sounds.whsigns.sound_block_step",
+    "sounds": [
+      "whsigns:sound_block_step"
+    ]
+  },
+  "sound_block_place": {
+    "subtitle": "sounds.whsigns.sound_block_place",
+    "sounds": [
+      "whsigns:sound_block_place"
+    ]
+  },
+  "sound_block_hit": {
+    "subtitle": "sounds.whsigns.sound_block_hit",
+    "sounds": [
+      "whsigns:sound_block_hit"
+    ]
+  },
+  "sound_block_fall": {
+    "subtitle": "sounds.whsigns.sound_block_fall",
+    "sounds": [
+      "whsigns:sound_block_fall"
+    ]
+  },
+  "bar_brawl": {
+    "sounds": [
+      {
+        "name": "whsigns:bar_brawl",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/sign",
+  "textures": {
+    "texture": "whsigns:block/darkchocolate_sign",
+    "particle": "whsigns:block/darkchocolate_sign"
+  }
+}

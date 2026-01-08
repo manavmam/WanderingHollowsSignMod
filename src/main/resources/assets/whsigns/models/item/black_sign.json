@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "whsigns:item/black_sign",
+    "particle": "whsigns:block/black_sign"
+  }
+}

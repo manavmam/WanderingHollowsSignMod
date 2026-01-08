@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "number=up": {
+      "model": "whsigns:block/dice_1"
+    },
+    "number=north": {
+      "model": "whsigns:block/dice_2"
+    },
+    "number=east": {
+      "model": "whsigns:block/dice_3"
+    },
+    "number=south": {
+      "model": "whsigns:block/dice_5"
+    },
+    "number=west": {
+      "model": "whsigns:block/dice_4"
+    },
+    "number=down": {
+      "model": "whsigns:block/dice_6"
+    }
+  }
+}
